@@ -547,3 +547,9 @@ div:empty {
   font-size: 3rem;
   color: #59bfc2;
 }
+.padding {
+  padding-top: 2rem;
+}
+.icon i:nth-child(even) {
+  margin: 0 8px;
+}
